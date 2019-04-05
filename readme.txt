@@ -1,3 +1,2 @@
-Git is a version control system.
-Git is frear eoftware.
-今天我在加班
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
